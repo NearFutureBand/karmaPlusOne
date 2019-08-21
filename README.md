@@ -1,2 +1,3 @@
-# karmaPlusOne
-This is the our command's project for the iTechArt Hackathon 2019 
+# Karma
+
+This is repo for our idea on iTechArt Hackathon 2019

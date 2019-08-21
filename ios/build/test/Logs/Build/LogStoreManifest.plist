@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>53E77E04-4521-43C9-9F33-566D6986EBF0</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>53E77E04-4521-43C9-9F33-566D6986EBF0.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace test with scheme test and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>588158449.73734498</real>
+			<key>timeStoppedRecording</key>
+			<real>588158568.38245499</real>
+			<key>title</key>
+			<string>Building workspace test with scheme test and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>53E77E04-4521-43C9-9F33-566D6986EBF0</string>
+		</dict>
+		<key>64E8DFDD-F000-4356-81DD-90F4C617964F</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>64E8DFDD-F000-4356-81DD-90F4C617964F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace test with scheme test and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>588072388.82191801</real>
+			<key>timeStoppedRecording</key>
+			<real>588072389.95099699</real>
+			<key>title</key>
+			<string>Building workspace test with scheme test and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>64E8DFDD-F000-4356-81DD-90F4C617964F</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
