@@ -8,11 +8,21 @@ import {
 
 import Add from './Add';
 import Profile from './Profile';
+import Games from './Games';
 import History from './History';
 import Icon from "react-native-vector-icons/Ionicons";
 
 const AppNavigator = createBottomTabNavigator(
   {
+      Games:{
+          screen:Games,
+          navigationOptions: {
+              tabBarLabel:"Games",
+              tabBarIcon: ({ tintColor }) => (
+                  <Icon name="logo-game-controller-a" size={30} color={tintColor}/>
+              )
+          },
+      },
       History:{
           screen:History,
           navigationOptions: {
